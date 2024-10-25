@@ -8,9 +8,9 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "express": "^4.21.1",
     "puppeteer": "^10.4.0"
-  }
+  },
+  "description": ""
 }
